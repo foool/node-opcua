@@ -35,7 +35,7 @@ Now edit the [sample_server.js](#the-server-script "save:") script.
 
 ### the server script
 
-The script will be organised around the following four steps:
+The script will be organised around the following three steps:
 
     _"declaration"
 
